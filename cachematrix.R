@@ -1,5 +1,6 @@
 ## makeCacheMatrix and cacheSolve are functions that together create a matrix, compute
-## the inverse of that matrix and stores the result
+## the inverse of that matrix and stores the result.  Code is modification of 'Caching the 
+## Mean of a Vector' example in R Programming course.
 ##
 ## EXAMPLE USAGE:
 ## > a <- makeCacheMatrix(matrix(c(6,2,33,24)2,2))
